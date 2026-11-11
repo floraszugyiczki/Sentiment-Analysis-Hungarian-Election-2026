@@ -193,13 +193,6 @@ Some typical prompts were:
 | Aggregation level | daily |
 | Validation checks | Duplicate, missing value, and range audits |
 
-### Additional Figures
-
-![Model A vs Model B Sentiment Scores](figure_a1.png)
-
-![Monthly Document Volume](figure_a2.png)
-
----
 
 ## References
 
